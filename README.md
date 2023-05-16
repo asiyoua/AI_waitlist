@@ -1,4 +1,12 @@
 # AI_waitlist
+
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
+ 
+ [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README_en.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.md)
+
+<!--rehype:style=text-align: center;-->
+
+
 国内外各类AI的waitlist，不求最全，但求更全。
 
 [AI-waitlist](https://www.notion.so/7b80cf9c071345b8b9466ed34cf17907)
